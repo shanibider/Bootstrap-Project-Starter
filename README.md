@@ -13,20 +13,16 @@ A collection of responsive website templates powered by JavaScript, Bootstrap, H
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
 ### The Templates:
-![1](https://github.com/shanibider/Website-Templates-with-JavaScript-Bootstrap-HTML-and-CSS/assets/72359805/cc711328-b28a-4994-afdb-e847e977e395)
-
-![2](https://github.com/shanibider/Website-Templates-with-JavaScript-Bootstrap-HTML-and-CSS/assets/72359805/ab5a60c0-5b1a-4c5b-98f4-d845fae68acc)
-
-
+![1](assets/images/1.png)
+![2](assets/images/2.png)
 
 
 
 <br>
 
-<h4 align="left">Connect with me 👩‍💻😊- </h4>
-<p align="left">
-<a href="https://linkedin.com/in/shanibider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanibider" height="30" width="40" /></a>
-</p>
+## 🔗 Connect with me 👩‍💻😊
+[![github](https://img.shields.io/badge/my_github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanibider)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-bider-0848b8177/)
 
 <br>
 
