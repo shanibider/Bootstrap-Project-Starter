@@ -12,6 +12,15 @@ A collection of responsive website templates powered by JavaScript, Bootstrap, H
 ### built using:
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
+### The Templates:
+![1](https://github.com/shanibider/Website-Templates-with-JavaScript-Bootstrap-HTML-and-CSS/assets/72359805/cc711328-b28a-4994-afdb-e847e977e395)
+
+![2](https://github.com/shanibider/Website-Templates-with-JavaScript-Bootstrap-HTML-and-CSS/assets/72359805/ab5a60c0-5b1a-4c5b-98f4-d845fae68acc)
+
+
+
+
+
 <br>
 
 <h4 align="left">Connect with me 👩‍💻😊- </h4>
